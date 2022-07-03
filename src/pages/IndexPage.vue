@@ -115,11 +115,11 @@ export default defineComponent({
 
 <style lang="sass">
 .q-page
-  background: linear-gradient(to bottom, #136a8a, #267871)
+  background: linear-gradient(to top, #5c258d, #4389a2)
   &.bg-night
-    background: linear-gradient(to bottom, #232526, #414345)
+    background: linear-gradient(to top, #4b6cb7, #182848)
   &.bg-day
-    background: linear-gradient(to bottom, #00b4db, #0083b0)
+    background: linear-gradient(to bottom, #fdc830, #f37335)
 
 .degree
   top: -44px
